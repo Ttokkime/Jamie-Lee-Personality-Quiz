@@ -1,0 +1,50 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: "Papyrus";
+  margin: 2em;
+  background-color: rgb(245, 201, 245);
+  background-image: linear-gradient(to right,rgb(240, 186, 240),rgb(74, 157, 209))
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #ffffff;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+}
+img{
+  border-radius: 25%;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  background-color: whitesmoke;
+  font-family: cursive;
+  font-size: 20px;
+  border-radius: 35%;
+  border-color: rgb(49, 199, 199);
+  padding: 10px;
+  color: rgb(60, 187, 187)
+
+}
