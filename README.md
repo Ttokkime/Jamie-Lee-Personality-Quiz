@@ -1,5 +1,5 @@
 # Personality Quiz
-
+This personality quiz will give the user which studio ghibli character they are from the choices they put in for the three questions provided. 
 
 ### Project
 - Allow a person to select an answer for each of the three questions by clicking a button.
