@@ -1,10 +1,10 @@
 # Personality Quiz
-This personality quiz will give the user which studio ghibli character they are from the choices they put in for the three questions provided. 
+This personality quiz will give the user which Studio Ghibli movie they are most alike based on the choices they put in for the three questions provided. 
 
 ### Project
-- Allow a person to select an answer for each of the three questions by clicking a button.
+- A person can select an answer for each of the three questions by clicking buttons.
 - Different outcomes will be displayed for different combinations of answer selections.
-- A person can restart the quiz by clicking a button.
+- A person can restart the quiz by clicking a button at the end.
 
 ---
 
@@ -12,20 +12,20 @@ This personality quiz will give the user which studio ghibli character they are 
 
 ### ← README.md
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
+File tells people more about what my website does.
 
 ### ← index.html
 
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
+HTML files include the text, images, buttons, and HTML tags that I used.
 
 ### ← style.css
 
-CSS files add styling rules to your content like changing colors and fonts. 
+CSS files the stylzation choices I decided to make such as changing colors and fonts in my website. 
 
 ### ← script.js
 
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+JavaScript files include the interactivity of my website such as the listening and response actions
 
 ### ← assets
 
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+The assets include the images or additional meaterials I used for my website.
